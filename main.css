@@ -16,3 +16,11 @@ header li {
 .articles {
     display: flex;
 }
+
+.articles article img {
+    height: 180px;
+}
+
+.articles article img {
+    width: 30%;
+}
