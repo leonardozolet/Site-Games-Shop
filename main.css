@@ -8,8 +8,8 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
-    font-weight: normal;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-weight: bolder;
 }
 
 body, input, textarea {
@@ -18,7 +18,7 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182C61;
+    background-color: #daa520;
     color: #ecf0f1;
 }
 
@@ -68,7 +68,7 @@ section h2 {
 }
 
 section {
-    color: #182C61;
+    color: #daa520;
 }
 
 section p {
@@ -120,22 +120,26 @@ section h3 {
 }
 
 form button {
-    background-color: #182C61;
+    background-color: #daa520;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #3350a0;
+    background-color: #eeb525;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182C61;
+    outline-color: #daa520;
 }
 
 footer {
-    background-color: #182C61;
+    background-color: #daa520;
     color: #ecf0f1;
     padding: 16px 0;
+}
+
+img .demons_souls {
+    height: 50px;
 }
